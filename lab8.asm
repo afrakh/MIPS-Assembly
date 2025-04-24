@@ -1,4 +1,4 @@
-#Wite program for alculating factorial using recursion technique
+#Write program for alculating factorial using recursion technique
 
 
 .data
