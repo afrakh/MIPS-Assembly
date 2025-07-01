@@ -1,4 +1,4 @@
-🖥️ MIPS Assembly & Final Datapath Design 
+🖥️ MIPS Assembly & Datapath Design 
 
 This repository contains a collection of **MIPS assembly programs** and the **datapath implementation** developed as part of the **CS-221: Computer Organization and Design** course.
 
