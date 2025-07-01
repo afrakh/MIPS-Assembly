@@ -1,2 +1,7 @@
-This repository contains all the assembly codes which I studied for MIPS processor specifically in Computer Organization and Design course(CS - 221). 
-Run the programs using any preferred simulator.
+🖥️ MIPS Assembly & Final Datapath Design 
+
+This repository contains a collection of **MIPS assembly programs** and the **datapath implementation** developed as part of the **CS-221: Computer Organization and Design** course.
+
+It showcases fundamental and intermediate-level concepts in computer architecture, including instruction execution, memory access, control flow and an implementation of a non-pipelined data path.
+
+You can run .asm files using either MARS or QtSPIM
